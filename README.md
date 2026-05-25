@@ -41,9 +41,6 @@ Run `INSTALLEER.bat` again. It will `git pull` the latest source automatically.
 
 ## Notes
 
-- The PACC plugin is **not** patched in this installer.
-  For the PACC multiplier fix when using renfield, see
-  [pacc-patch-not1mm-renfield](https://github.com/PE5JW/pacc-patch-not1mm-renfield)
 - Not1MM is developed by [mbridak](https://github.com/mbridak/not1mm)
 
 ## License
